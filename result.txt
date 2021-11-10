@@ -1,0 +1,13 @@
+Epoch 15/20
+420/420 [==============================] - 6s 14ms/step - loss: 0.5815 - accuracy: 0.8121 - val_loss: 0.8321 - val_accuracy: 0.7522
+Epoch 16/20
+420/420 [==============================] - 6s 14ms/step - loss: 0.5460 - accuracy: 0.8194 - val_loss: 0.6412 - val_accuracy: 0.8372
+Epoch 17/20
+420/420 [==============================] - 6s 14ms/step - loss: 0.5768 - accuracy: 0.8224 - val_loss: 0.6117 - val_accuracy: 0.8306
+Epoch 18/20
+420/420 [==============================] - 6s 14ms/step - loss: 0.5758 - accuracy: 0.8186 - val_loss: 0.6853 - val_accuracy: 0.8203
+Epoch 19/20
+420/420 [==============================] - 6s 14ms/step - loss: 0.5252 - accuracy: 0.8293 - val_loss: 0.4195 - val_accuracy: 0.8764
+Epoch 20/20
+420/420 [==============================] - 6s 14ms/step - loss: 0.5260 - accuracy: 0.8287 - val_loss: 0.4439 - val_accuracy: 0.8647
+263/263 [==============================] - 2s 6ms/step - loss: 0.2212 - accuracy: 0.9560
